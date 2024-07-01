@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    border: 3.5px solid #AB6866;
+    font-family:'Courier New';
+    padding: 30px 30px;
+    text-align: center;
+    font-weight: 1000;
+    height: 3vh;
+    border-left: none;
+    border-right: none;
+    font-size: 2.25rem;
+}
+a {
+    color: brown;
+    text-decoration: underline;
+}
+img {
+    width: 10px;
+}
+main {
+    padding: 2rem;
+}
+.contenthead {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h2 {
+    font-family: 'Courier New';
+    margin-bottom: 1rem;
+}
+.bravesection {
+    max-width: 40rem;
+}
+.bravesection p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.petti {
+    width: 180px;
+    height: 50px;
+    color: brown;
+    border: 1px solid brown;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25 rem;
+}
+.beststart p {
+     max-width: 40rem;
+}
+.topcourses {
+    max-width: 10rem;
+    padding-left: 50px;
+}
